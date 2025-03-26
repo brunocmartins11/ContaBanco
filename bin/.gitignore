@@ -1,0 +1,29 @@
+/ContaBanco/
+# Arquivos e diretórios do Eclipse
+/.settings/
+/.project
+.classpath
+
+# Arquivos de compilação
+/bin/
+/target/
+
+# Dependências baixadas pelo Maven ou Gradle
+/.mvn/
+/.m2/
+/.gradle/
+/build/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Credenciais e configurações pessoais
+*.env
+*.keystore
